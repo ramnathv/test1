@@ -50,18 +50,26 @@ This is section 3
 
 
 ```r
+h = 3
 h = h + 1
-```
-
-```
-## Error: object 'h' not found
-```
-
-```r
 h
 ```
 
 ```
-## Error: object 'h' not found
+## [1] 4
+```
+
+
+## Section 4 ##
+
+
+
+```r
+f = h + 3
+f
+```
+
+```
+## [1] 7
 ```
 
