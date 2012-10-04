@@ -17,3 +17,12 @@ This is section 2
 z = z + 10
 z*2
 ```
+
+## Section 3 ##
+
+This is section 3
+
+```{r chunk3}
+h = h + 1
+h
+```
