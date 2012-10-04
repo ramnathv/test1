@@ -23,6 +23,15 @@ z*2
 This is section 3
 
 ```{r chunk3}
+h = 3
 h = h + 1
 h
+```
+
+## Section 4 ##
+
+
+```{r chunk4}
+f = h + 2
+f
 ```
