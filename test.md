@@ -43,3 +43,25 @@ z * 2
 ## Error: object 'z' not found
 ```
 
+
+## Section 3 ##
+
+This is section 3
+
+
+```r
+h = h + 1
+```
+
+```
+## Error: object 'h' not found
+```
+
+```r
+h
+```
+
+```
+## Error: object 'h' not found
+```
+
